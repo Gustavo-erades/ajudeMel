@@ -7,3 +7,9 @@ Mel é minha cachorrinha de estimação. Ela tem apenas seis meses `(01/2024)` e
 O contador de acessos, além de obviamente contar a quantidade de acessos à página, também armazena algumas informaçoes como ip, navegador e dia/hora do acesso. Assim posso analisar se alguém acessou a página e quando aproximadamente foi feito esse acesso.
 
 ## Tecnologias usadas
+![HTML](https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-151515?style=for-the-badge&logo=css3&logoColor=white)&nbsp;
+![PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white)&nbsp;
+![MySql](https://img.shields.io/badge/MySql-151515?style=for-the-badge&logo=mysqli&logoColor=white)&nbsp;
+<hr>
+Além dessas linguagens, a IDE utilizada foi o VsCode, o SGB usado na implementação foi o MySql Workbench e o Xampp foi utilizado durante o desenvolvimento. A hospedagem foi feita de forma gratuita na <a href="https://br.000webhost.com/">00WebHost</a> e o SGB usado na hospedagem foi o PHPMyAdmin.
