@@ -1,4 +1,4 @@
-# <h1 style="text-align:center;"> Ajude a Mel </h1>
+# Ajude a Mel 
 Mel é minha cachorrinha de estimação. Ela tem apenas seis meses `(01/2024)` e gosta muito de morder, correr e brincar. Essa página web é acessada por meio de um QrCode gerado de forma gratuita em um site da internet para <a href="https://qrcodefacil.com/">geração de QrCode de forma gratuita<a>, esse QrCode fica na coleira dela e serve para ser usado caso ela se perca algum dia.
 
 ## Sobre a página
