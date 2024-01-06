@@ -14,10 +14,10 @@ O contador de acessos, além de obviamente contar a quantidade de acessos à pá
 Além dessas linguagens, a IDE utilizada foi o VsCode, o SGB usado na implementação foi o MySql Workbench e o Xampp foi utilizado durante o desenvolvimento. A hospedagem foi feita de forma gratuita na <a href="https://br.000webhost.com/">00WebHost</a> e o SGB usado na hospedagem foi o PHPMyAdmin.
 
 ## código QrCode
-<img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/0728ac84-389a-450b-bb0a-f67c19f0e876" width="250px">
-<p style="text-align:center">gerado pelo <a href="https://qrcodefacil.com/">QrCode fácil</a></p>
+<img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/0728ac84-389a-450b-bb0a-f67c19f0e876" width="250px" align="center">
+<p align="center">gerado pelo <a href="https://qrcodefacil.com/">QrCode fácil</a></p>
 <hr>
-<img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/31385b84-ffca-44ef-bb8e-ebea9e893635" width="250px">
-<img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/591354b4-c79d-4d54-86b9-ff793a3f9df9" width="250px">
+<img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/31385b84-ffca-44ef-bb8e-ebea9e893635" width="150px" align="center">
+<img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/591354b4-c79d-4d54-86b9-ff793a3f9df9" width="150px" align="center">
 
 
