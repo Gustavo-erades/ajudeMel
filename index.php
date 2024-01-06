@@ -21,7 +21,7 @@
             <h1>Olá, me chamo Mel!</h1>
             <p>
                 Caso você tenha me encontrado, por favor, entre em contato com meus donos. Eles estão a minha procura!
-                Você pode <a target="_blank" href="mailto:eradesvilarinho@gmail.com?subject=Achei a mel">enviar um email</a> para eles, <a target="_blank" href="https://api.whatsapp.com/send?phone=5561994490664&text=Achei%20a%20Mel!">mandar mensagem</a> ou até mesmo <a href="tel:+5561994490664">ligar</a> para eles. Muito obrigada.
+                Você pode <a target="_blank" href="mailto:meuemail@gmail.com?subject=Achei a mel">enviar um email</a> para eles, <a target="_blank" href="https://api.whatsapp.com/send?phone=5561999999999&text=Achei%20a%20Mel!">mandar mensagem</a> ou até mesmo <a href="tel:+5561999999999">ligar</a> para eles. Muito obrigada.
             </p>
         </div>
         <div>
@@ -35,7 +35,7 @@
                 </ul>
             </p>
             <p>
-                Se puder, ligue lá em casa usando o número <a href="tel:+556132566605">(61) 3256-6605</a>
+                Se puder, ligue lá em casa usando o número <a href="tel:+5561999999999">(61) 3256-6605</a>
             </p>
         </div>
         <div>
