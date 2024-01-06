@@ -1,4 +1,4 @@
-# Ajude a Mel 
+![QRCode_Fácil](https://github.com/Gustavo-erades/ajudeMel/assets/108373134/ff56d236-d483-42fb-b9fc-ca9e2b546c39)# Ajude a Mel 
 Mel é minha cachorrinha de estimação. Ela tem apenas seis meses `(01/2024)` e gosta muito de morder, correr e brincar. Essa página web é acessada por meio de um QrCode gerado de forma gratuita em um site da internet para <a href="https://qrcodefacil.com/">geração de QrCode de forma gratuita<a>, esse QrCode fica na coleira dela e serve para ser usado caso ela se perca algum dia.
 <hr>
 
@@ -14,3 +14,8 @@ O contador de acessos, além de obviamente contar a quantidade de acessos à pá
 ![PHP](https://img.shields.io/badge/PHP-151515?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 ![MySql](https://img.shields.io/badge/MySql-151515?style=for-the-badge&logo=mysqli&logoColor=white)&nbsp;
 Além dessas linguagens, a IDE utilizada foi o VsCode, o SGB usado na implementação foi o MySql Workbench e o Xampp foi utilizado durante o desenvolvimento. A hospedagem foi feita de forma gratuita na <a href="https://br.000webhost.com/">00WebHost</a> e o SGB usado na hospedagem foi o PHPMyAdmin.
+<hr>
+
+## código QrCode
+![QRCode_Fácil](https://github.com/Gustavo-erades/ajudeMel/assets/108373134/0728ac84-389a-450b-bb0a-f67c19f0e876)
+
