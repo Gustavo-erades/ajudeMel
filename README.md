@@ -1,4 +1,4 @@
-![QRCode_Fácil](https://github.com/Gustavo-erades/ajudeMel/assets/108373134/ff56d236-d483-42fb-b9fc-ca9e2b546c39)# Ajude a Mel 
+# Ajude a Mel 
 Mel é minha cachorrinha de estimação. Ela tem apenas seis meses `(01/2024)` e gosta muito de morder, correr e brincar. Essa página web é acessada por meio de um QrCode gerado de forma gratuita em um site da internet para <a href="https://qrcodefacil.com/">geração de QrCode de forma gratuita<a>, esse QrCode fica na coleira dela e serve para ser usado caso ela se perca algum dia.
 <hr>
 
@@ -17,5 +17,9 @@ Além dessas linguagens, a IDE utilizada foi o VsCode, o SGB usado na implementa
 <hr>
 
 ## código QrCode
-![QRCode_Fácil](https://github.com/Gustavo-erades/ajudeMel/assets/108373134/0728ac84-389a-450b-bb0a-f67c19f0e876)
+<img href="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/0728ac84-389a-450b-bb0a-f67c19f0e876" width:250px>
+<p style="text-align:center">gerado pelo <a href="https://qrcodefacil.com/">QrCode fácil</a></p>
+<hr>
+![1704515333127](https://github.com/Gustavo-erades/ajudeMel/assets/108373134/31385b84-ffca-44ef-bb8e-ebea9e893635)
+![1704515333138](https://github.com/Gustavo-erades/ajudeMel/assets/108373134/591354b4-c79d-4d54-86b9-ff793a3f9df9)
 
