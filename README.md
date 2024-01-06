@@ -13,9 +13,11 @@ O contador de acessos, além de obviamente contar a quantidade de acessos à pá
 ![MySql](https://img.shields.io/badge/MySql-151515?style=for-the-badge&logo=mysqli&logoColor=white)&nbsp;<br>
 Além dessas linguagens, a IDE utilizada foi o VsCode, o SGB usado na implementação foi o MySql Workbench e o Xampp foi utilizado durante o desenvolvimento. A hospedagem foi feita de forma gratuita na <a href="https://br.000webhost.com/">00WebHost</a> e o SGB usado na hospedagem foi o PHPMyAdmin.
 
-## código QrCode
+## Código QrCode
 <img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/0728ac84-389a-450b-bb0a-f67c19f0e876" width="250px">
 <img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/31385b84-ffca-44ef-bb8e-ebea9e893635" width="190px">
 <img src="https://github.com/Gustavo-erades/ajudeMel/assets/108373134/591354b4-c79d-4d54-86b9-ff793a3f9df9" width="190px">
 
+## Página web
+![fg](https://github.com/Gustavo-erades/ajudeMel/assets/108373134/88834d94-e132-43ca-927e-7d84f8ce50f9)
 
