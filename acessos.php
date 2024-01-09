@@ -10,7 +10,7 @@
         $data= $dataHora->format('d/m/Y');
         $hora=$dataHora->format('h:i:s');
         /* consumindo a API ipinfo para armazenar dados de localização */
-        $url="https://ipinfo.io/$ip?token=eb880d50e98910";
+        $url="https://ipinfo.io/$ip?token=meuToken"; /*substitua por seu código token para uso da API*/
         $dadosJson=json_decode(file_get_contents("$url"));
         $cidade=$dadosJson->city;
         $regiao=$dadosJson->region;
