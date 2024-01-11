@@ -16,7 +16,8 @@
         $regiao=$dadosJson->region;
         $pais=$dadosJson->country;
         $org=$dadosJson->org;   
-        $sql="INSERT INTO acessos(ip,navegador,dia,hora,cidade,regiao,pais,org) VALUES('$ip','$navegador','$data','$hora','$cidade','$regiao','$pais','$org');";
+        $loc=$dadosJson->loc;
+        $sql="INSERT INTO acessos(ip,navegador,dia,hora,cidade,regiao,pais,org,loc) VALUES('$ip','$navegador','$data','$hora','$cidade','$regiao','$pais','$org','$loc');";
         mysqli_query($conexao,$sql);
         $_SESSION["acesso_registrado"]=true;   
     }
