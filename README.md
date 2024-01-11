@@ -17,6 +17,7 @@ $data=new DateTime('now', $fuso);
 echo $data->format('d/m/y');
 echo $data->format('h:i:s');
 ```
+<hr>
 Ainda tentando evitar problemas, além de cidade, região e pais são armazenadas a latitude e longitude do IP no momento do acesso, isso é feito para que as informações possam ser cruzadas e analisadas com maior precisão posteriormente, caso seja necessário.
 ```
 $ip=$_SERVER['REMOTE_ADDR'];
