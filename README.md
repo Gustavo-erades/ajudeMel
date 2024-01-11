@@ -10,7 +10,12 @@ Mel é minha cachorrinha de estimação. Ela tem apenas seis meses `(01/2024)` e
 ```
 <a href="tel:+5561999999999">
 ```
-e um contador de acessos. O contador de acessos, além de obviamente contar a quantidade de acessos à página, também armazena algumas informaçoes como ip, navegador e dia/hora do acesso, assim posso analisar se alguém acessou a página e quando aproximadamente foi feito esse acesso. Para maior precisão dessas informações foi utilizada uma API que usa o IP de acesso para registrar dados referentes a localização bem como o horário e data do acesso.<hr>Ao inves de ser usada a função `NOW()` do SQL foi usada o próprio PHP para capturar o dia e horário do acesso. Assim apenas os dados em tempo real são armazenados o que não aconteceria com o uso da função nativa do SQL, pois nesse caso a data e hora armazenadas seriam referentes ao momento em que o servidor fez o registro e, por conta de fuso horário e localidade do servidor, poderia causar certas incongruências.
+e um contador de acessos. O contador de acessos, além de obviamente contar a quantidade de acessos à página, também armazena algumas informaçoes como ip, navegador e dia/hora do acesso, assim posso analisar se alguém acessou a página e quando aproximadamente foi feito esse acesso. 
+```
+$ip=$_SERVER['REMOTE_ADDR'];
+$navegador=$_SERVER['HTTP_USER_AGENT'];
+```
+Para maior precisão dessas informações foi utilizada uma API que usa o IP de acesso para registrar dados referentes a localização bem como o horário e data do acesso.<hr>Ao inves de ser usada a função `NOW()` do SQL foi usada o próprio PHP para capturar o dia e horário do acesso. Assim apenas os dados em tempo real são armazenados o que não aconteceria com o uso da função nativa do SQL, pois nesse caso a data e hora armazenadas seriam referentes ao momento em que o servidor fez o registro e, por conta de fuso horário e localidade do servidor, poderia causar certas incongruências.
 ```
 $fuso= new DateTimeZone('America/Sao_Paulo');
 $data=new DateTime('now', $fuso);
