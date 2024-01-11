@@ -25,7 +25,8 @@ $dadosJson=json_decode(file_get_contents("$url"));
 $cidade=$dadosJson->city;
 $regiao=$dadosJson->region;
 $pais=$dadosJson->country;
-$org=$dadosJson->org;   
+$org=$dadosJson->org;
+$loc=$dadosJson->loc; 
 ```
 ## Tecnologias usadas
 ![HTML](https://img.shields.io/badge/HTML-151515?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
