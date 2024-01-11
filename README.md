@@ -3,9 +3,9 @@ Mel é minha cachorrinha de estimação. Ela tem apenas seis meses `(01/2024)` e
 
 ## Sobre a página
 É uma página simples. Possui um único html com informações de contato (para aquele(a) que leu o QrCode), contém link para enviar email `<a target="_blank" href="mailto:meuemail@gmail.com?subject=Achei a mel">`, link para enviar uma mensagem personalizada para o whatsapp, gerado de forma gratuita na internet em um site para <a href="https://zap.convertte.com.br/gerador-link-whatsapp/">geração de links para o whatsapp<a>, link para fazer uma ligação `<a href="tel:+5561999999999">` e um contador de acessos. 
-<br>
+<hr>
 O contador de acessos, além de obviamente contar a quantidade de acessos à página, também armazena algumas informaçoes como ip, navegador e dia/hora do acesso. Assim posso analisar se alguém acessou a página e quando aproximadamente foi feito esse acesso. Para maior precisão dessas informações foi utilizada uma API que usa o IP de acesso para registrar dados referentes a localização bem como o horário e data do acesso.
-<br>
+<hr>
 Ao inves de ser usada a função `NOW()` do SQL foi usada o próprio PHP para capturar o dia e horário do acesso. Assim apenas os dados em tempo real são armazenados o que não aconteceria com o uso da função nativa do SQL, pois nesse caso a data e hora armazenadas seriam referentes ao momento em que o servidor fez o registro e, por conta de fuso horário e localidade do servidor, poderia causar certas incongruências. Ainda tentando evitar problemas, além de cidade, região e pais são armazenadas a latitude e longitude do IP no momento do acesso, isso é feito para que as informações possam ser cruzadas e analisadas com maior precisão posteriormente, caso seja necessário. 
 
 ## Tecnologias usadas
